@@ -1,4 +1,7 @@
 # fractol
+Dans ce project, nous devions créer un programme permettant de naviguer a travers un certains nombre de fractals dont julia, mandelbrot principalement.
+Des ScreenShot sont disponibles dans le dossier Image;
+
 
 Instruction :
 
